@@ -1,5 +1,5 @@
 export function Header(){
-  const hi = "Hello world";
+  const hi = "Hello different branch";
   return(
     <header>
       <h1>{hi}</h1>
