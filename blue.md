@@ -2,5 +2,5 @@
 
 azure
 sky
-navy
+aqua
 teal
