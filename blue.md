@@ -2,5 +2,6 @@
 
 azure
 sky
+aqua
 sapphire
 teal
